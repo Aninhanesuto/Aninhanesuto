@@ -1,6 +1,6 @@
 ## Eai, eu sou a Ana 😉
 
-- Estou cursando Engenharia da Computação
+- Estou cursando Ciência da Computação
 - Minha linguagem preferida é Python
 <div align="center">
   <a href="https://github.com/Aninhanesuto">
