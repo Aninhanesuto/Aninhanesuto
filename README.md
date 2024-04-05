@@ -1,7 +1,8 @@
-## Eai, eu sou a Ana 😉
+## Eai, eu sou a Ana 
 
 - Estou cursando Ciência da Computação
-- Minha linguagem preferida é Python
+- Minhas linguagens preferidas são Python e C++.
+- Tenho interesse em software livre e hacking.
 <div align="center">
   <a href="https://github.com/Aninhanesuto">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aninhanesuto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
