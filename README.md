@@ -1,4 +1,4 @@
-## Eai, eu sou a Ana 
+## Eai, eu sou a Ana <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f643.png" width=20 height=20>
 
 - Estou cursando Ciência da Computação
 - Minhas linguagens preferidas são Python e C++.
