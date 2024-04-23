@@ -23,5 +23,5 @@ Sou estudante da Ufes - Campus São Mateus. Meus maiores interesses são sobre a
 
 ### GitHub Stats
 
-![Aninhanesuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Aninhanesuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninhanesuto&theme=midnight-purple&show_icons=true)
 
