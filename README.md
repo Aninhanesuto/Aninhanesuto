@@ -23,7 +23,7 @@ Sou estudante da Ufes - Campus São Mateus. Meus maiores interesses são sobre a
 ### GitHub Stats
 <div>
   <a href="https://github.com/Aninhanesuto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aninhanesuto&show_icons=&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhanesuto&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aninhanesuto&show_icons=&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhanesuto&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
