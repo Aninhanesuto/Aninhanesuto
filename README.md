@@ -25,6 +25,6 @@ Sou estudante da Ufes - Campus São Mateus. Meus maiores interesses são sobre a
 ![Ana Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninhanesuto&theme=midnight-purple&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhanesuto&layout=compact&langs_count=7&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aninhanesuto&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
