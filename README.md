@@ -1,5 +1,5 @@
 # Olá! eu sou a Ana 👋🏻  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5710F7&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg) 
 
 Sou estudante da Ufes - Campus São Mateus. Meus maiores interesses são sobre a comunidade de software livre, hacking e programação competitiva.Eu programo em C, C++, Python e sei um pouco de HTML e CSS.
 #
