@@ -20,9 +20,7 @@ Sou estudante da Ufes - Campus São Mateus. Meus maiores interesses são sobre a
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-
 ### GitHub Stats
-
 <div>
   <a href="https://github.com/Aninhanesuto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aninhanesuto&show_icons=&theme=midnight-purple&include_all_commits=true&count_private=true"/>
