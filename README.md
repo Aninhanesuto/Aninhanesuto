@@ -21,9 +21,8 @@ Sou estudante da Ufes - Campus São Mateus. Meus maiores interesses são sobre a
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
-<div>
-  <a href="https://github.com/Aninhanesuto">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aninhanesuto&show_icons=&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhanesuto&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
+![Ana Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninhanesuto&theme=midnight-purple&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aninhanesuto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
